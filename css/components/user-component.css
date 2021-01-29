@@ -53,3 +53,15 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__text {
+  position: relative;
+}
+
+.user-component__text span {
+  position: absolute;
+}
+
+.번호옆 {
+  margin-left: 10px;
+}
